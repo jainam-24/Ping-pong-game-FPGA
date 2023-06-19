@@ -1,0 +1,4 @@
+module score_controller(input button_L,button_R output reg score_L,score_R);
+
+
+endmodule

@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\ALTERA\13.0sp1\New folder\ping pong\simulation\modelsim
+vclockconverter
+IRgk^EHO<?LIc:Q2IlY2^:3
+Vec]Fddh3>6Jf79Jl[O0`F2
+Z1 dC:\ALTERA\13.0sp1\New folder\ping pong\simulation\modelsim
+w1677137745
+8C:/ALTERA/13.0sp1/New folder/ping pong/clockconverter.v
+FC:/ALTERA/13.0sp1/New folder/ping pong/clockconverter.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work {+incdir+C:/ALTERA/13.0sp1/New folder/ping pong} -O0
+!i10b 1
+!s100 QSlHCa]5CfVC0R3o_[AoC3
+!s85 0
+!s108 1677572110.862000
+!s107 C:/ALTERA/13.0sp1/New folder/ping pong/clockconverter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ALTERA/13.0sp1/New folder/ping pong|C:/ALTERA/13.0sp1/New folder/ping pong/clockconverter.v|
+!s101 -O0
+vdancing_led
+IFk^l<REWVo2kATRbl2l^X0
+V_KM4i6GaU0=5fhHZnSe]@0
+R1
+w1677137327
+8C:/ALTERA/13.0sp1/New folder/ping pong/dancing_led.v
+FC:/ALTERA/13.0sp1/New folder/ping pong/dancing_led.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 lTcM@GPKoJP_RUG1QLU9e2
+!s85 0
+!s108 1677572110.739000
+!s107 C:/ALTERA/13.0sp1/New folder/ping pong/dancing_led.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ALTERA/13.0sp1/New folder/ping pong|C:/ALTERA/13.0sp1/New folder/ping pong/dancing_led.v|
+!s101 -O0
+vmain_module
+!i10b 1
+!s100 6DiLg6V3zleWcI<Mhga5M2
+IGd350]]iCY:40iQdGb27@1
+Vk_Ec]bP1BLXfhEa[W;LT23
+R1
+w1677571815
+8C:/ALTERA/13.0sp1/New folder/ping pong/main_module.v
+FC:/ALTERA/13.0sp1/New folder/ping pong/main_module.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1677572110.997000
+!s107 C:/ALTERA/13.0sp1/New folder/ping pong/main_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ALTERA/13.0sp1/New folder/ping pong|C:/ALTERA/13.0sp1/New folder/ping pong/main_module.v|
+!s101 -O0
+R3
+R4
+vscore_controller
+I491L5VOUj5Ta2jQhoMH5T1
+V?Hb?i1UMoQH0^9VE@=j:62
+R1
+w1677572079
+8C:/ALTERA/13.0sp1/New folder/ping pong/score_controller.v
+FC:/ALTERA/13.0sp1/New folder/ping pong/score_controller.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 9IUD>VG292fEP9kYaMiQP0
+!s85 0
+!s108 1677572110.934000
+!s107 C:/ALTERA/13.0sp1/New folder/ping pong/score_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/ALTERA/13.0sp1/New folder/ping pong|C:/ALTERA/13.0sp1/New folder/ping pong/score_controller.v|
+!s101 -O0

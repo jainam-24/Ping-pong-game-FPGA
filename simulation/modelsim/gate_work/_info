@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\ALTERA\13.0sp1\New folder\ping pong\simulation\modelsim
+vbcd_to_seven
+!i10b 1
+!s100 C3R;3NNgJJZ@dHej^VzbS3
+IIZ]2C:Re@oF:VHKT`=SmS2
+VXEYb1M2=Rjg4k=LF2JIiH0
+Z1 dC:\ALTERA\13.0sp1\New folder\ping pong\simulation\modelsim
+w1676469383
+8main_module.vo
+Fmain_module.vo
+L0 31
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1676469407.340000
+!s107 main_module.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|main_module.vo|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+. -O0

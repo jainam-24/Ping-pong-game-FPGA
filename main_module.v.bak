@@ -1,0 +1,9 @@
+module main_module(button_L,button_R,clk50,leds,s1,s2);
+input button_L,button_R;
+output reg [17:0]leds;
+output reg [6:0]s1,s2;
+
+//interconnecting all modules
+clockconverter(clk50,clk);
+dancing_led(clk,score_L,score_R,leds);
+score_controller(button_L,button_R,clk,leds,score_L,score_R);

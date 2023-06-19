@@ -1,0 +1,12 @@
+module dancing_led(input clk,output leds)
+reg [17:0] leds;
+
+reg left,right;
+initial
+begin
+	leds=18'b1;
+	left=1;
+	right=0;	
+end
+
+endmodule

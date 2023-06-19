@@ -1,0 +1,2 @@
+{ "Error" "EQCU_INVALID_CHARACTER" "  " "Character   is illegal" {  } {  } 0 20002 "Character %1!s! is illegal" 0 0 "Quartus II" 0 -1 1677589475274 ""}
+{ "Error" "EQSYN_INVALID_PROJECT_NAME" "main_module_28_2 - Copy " "Project name \"main_module_28_2 - Copy\" is illegal -- project name cannot contain illegal characters" {  } {  } 0 281003 "Project name \"%1!s!\" is illegal -- project name cannot contain illegal characters" 0 0 "Quartus II" 0 -1 1677589475274 ""}
